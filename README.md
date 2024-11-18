@@ -36,6 +36,7 @@ The Driver License Issuance and Management System is a desktop application built
 1. Open the project in **Visual Studio**  in  path "..\Project\DVLD\DVLD.sln".
 2. Restore any missing packages if they are not automatically installed.
 3. Run the application using the **Start** button or press `F5`.
+4. For Login to the system, Use this #Username : `bilal` and #password : `1212`
 
 ## Services Provided by the System
 ### License Management:
