@@ -20,11 +20,11 @@ The Driver License Issuance and Management System is a desktop application built
 ## Project Setup
 ### 1. Import the Database
 1. Open **SQL Server Management Studio**.
-2. Import the database file  `DVLD.bak` in path : "..\DVLD Project Final\Project\Database\DVLD.bak".
+2. Import the database file  `DVLD.bak` in path : "..\Project\Database\DVLD.bak".
 3. Ensure the database is connected correctly.
 
 ### 2. Set up the Connection String
-- Open the connection string settings file (`app.config`) in path : ..\DVLD Project Final\Project\DVLD\App.config.
+- Open the connection string settings file (`app.config`) in path : ..\Project\DVLD\App.config.
 - Modify the `Connection String` to reflect your SQL Server connection details:
   ```xml
   <connectionStrings>
@@ -33,7 +33,7 @@ The Driver License Issuance and Management System is a desktop application built
   
 
 ### 3. Run the Project
-1. Open the project in **Visual Studio**  in  path "..\DVLD Project Final\Project\DVLD\DVLD.sln".
+1. Open the project in **Visual Studio**  in  path "..\Project\DVLD\DVLD.sln".
 2. Restore any missing packages if they are not automatically installed.
 3. Run the application using the **Start** button or press `F5`.
 
